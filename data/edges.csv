@@ -1,0 +1,6 @@
+source,target,relationship,confidence,notes
+Zuffenhausen_WB,BauNVO_17_GFZ,overrides,high,"Explicit 'abweichend von' language -- correct on first pass"
+Stgt_322_1_Abstandsflaeche,LBO_BW_Abstandsflaeche_default,overrides,high,"Correct on first pass"
+Muenster41_SG_GRZ,GRZ_regelhafte_Obergrenze,overrides,high,"Correct on first pass"
+Weilimdorf_222_SO,GRZ_Regelbebauung,overrides,high,"Correct on first pass"
+LBO_BW_Paragraph_10,LBO_BW_Paragraph_5,same_provision_group,high,"MISSED on first pass (entity under-segmentation) -- FIXED after Example 6 added to prompt"
